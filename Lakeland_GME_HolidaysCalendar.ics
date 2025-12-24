@@ -1,0 +1,726 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lakeland//Factory Holidays//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:VeridianPlant_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Veridian Plant – New Year's Day Holiday
+LOCATION:Spencer/Des Moines, US
+DESCRIPTION:New Year's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_PlantClosedforSpencer@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Veridian Plant – Plant Closed (for Spencer)
+LOCATION:Spencer, US
+DESCRIPTION:Plant Closed (for Spencer) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_GoodFridayHolidayforSpencer@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Veridian Plant – Good Friday Holiday (for Spencer)
+LOCATION:Spencer, US
+DESCRIPTION:Good Friday Holiday (for Spencer) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_MemorialDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Veridian Plant – Memorial Day Holiday
+LOCATION:Spencer/Des Moines, US
+DESCRIPTION:Memorial Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_IndependenceDayHolidayforSpencer@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Veridian Plant – Independence Day Holiday (for Spencer)
+LOCATION:Spencer, US
+DESCRIPTION:Independence Day Holiday (for Spencer) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_IndependenceDayHolidayforDesMoines@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Veridian Plant – Independence Day Holiday (for Des Moines)
+LOCATION:Des Moines, US
+DESCRIPTION:Independence Day Holiday (for Des Moines) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_LaborDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Veridian Plant – Labor Day Holiday
+LOCATION:Spencer/Des Moines, US
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_ThanksgivingHolidayforDesMoines@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261127
+SUMMARY:Veridian Plant – Thanksgiving Holiday (for Des Moines)
+LOCATION:Des Moines, US
+DESCRIPTION:Thanksgiving Holiday (for Des Moines) – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_ThanksgivingHolidayforSpencer@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+SUMMARY:Veridian Plant – Thanksgiving Holiday (for Spencer)
+LOCATION:Spencer, US
+DESCRIPTION:Thanksgiving Holiday (for Spencer) – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_ChristmasEveHolidayforDesMoines@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Veridian Plant – Christmas Eve Holiday (for Des Moines)
+LOCATION:Des Moines, US
+DESCRIPTION:Christmas Eve Holiday (for Des Moines) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_ChristmasHolidayforSpencer@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261226
+SUMMARY:Veridian Plant – Christmas Holiday (for Spencer)
+LOCATION:Spencer, US
+DESCRIPTION:Christmas Holiday (for Spencer) – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VeridianPlant_PlantClosed@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270101
+SUMMARY:Veridian Plant – Plant Closed
+LOCATION:Spencer/Des Moines, US
+DESCRIPTION:Plant Closed – 4 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:CaliforniaPPE_nan@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:
+DTEND;VALUE=DATE:
+SUMMARY:California PPE – nan
+LOCATION:nan
+DESCRIPTION:nan – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArizonaPPE_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Arizona PPE – New Year's Day Holiday
+LOCATION:Phoenix, US
+DESCRIPTION:New Year's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArizonaPPE_MemorialDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Arizona PPE – Memorial Day Holiday
+LOCATION:Phoenix, US
+DESCRIPTION:Memorial Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArizonaPPE_LaborDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Arizona PPE – Labor Day Holiday
+LOCATION:Phoenix, US
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArizonaPPE_ThanksgivingHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+SUMMARY:Arizona PPE – Thanksgiving Holiday
+LOCATION:Phoenix, US
+DESCRIPTION:Thanksgiving Holiday – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArizonaPPE_ChristmasHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261226
+SUMMARY:Arizona PPE – Christmas Holiday
+LOCATION:Phoenix, US
+DESCRIPTION:Christmas Holiday – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:LHD Germany – New Year´s Day Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:New Year´s Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_PlantClosed@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260110
+SUMMARY:LHD Germany – Plant Closed
+LOCATION:Wesseling, Germany
+DESCRIPTION:Plant Closed – 5 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_CarnivalHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:LHD Germany – Carnival Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:Carnival Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_GoodFridayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:LHD Germany – Good Friday Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:Good Friday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_EasterHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260407
+SUMMARY:LHD Germany – Easter Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:Easter Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_LaborDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:LHD Germany – Labor Day Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_AscensionDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:LHD Germany – Ascension Day Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:Ascension Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_WhitMondayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:LHD Germany – Whit Monday Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:Whit Monday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_CorpusChristiHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:LHD Germany – Corpus Christi Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:Corpus Christi Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_GermanUnityDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:LHD Germany – German Unity Day Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:German Unity Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_AllSaintsDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:LHD Germany – All Saints' Day Holiday
+LOCATION:Wesseling, Germany
+DESCRIPTION:All Saints' Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_ChristmasHolidays@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261227
+SUMMARY:LHD Germany – Christmas Holidays
+LOCATION:Wesseling, Germany
+DESCRIPTION:Christmas Holidays – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDGermany_PlantClosed@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270101
+SUMMARY:LHD Germany – Plant Closed
+LOCATION:Wesseling, Germany
+DESCRIPTION:Plant Closed – 4 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Vietnam Plant – New Year's Day Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:New Year's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_LunarNewYearHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260221
+SUMMARY:Vietnam Plant – Lunar New Year Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Lunar New Year Holiday – 5 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260224
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_HungKingsCommemorationDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Vietnam Plant – Hung Kings’ Commemoration Day Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Hung Kings’ Commemoration Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_SouthernLiberationCeremonyHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Vietnam Plant – Southern Liberation Ceremony Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Southern Liberation Ceremony Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_InternationalLaborDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Vietnam Plant – International Labor Day Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:International Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_NationalDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260903
+SUMMARY:Vietnam Plant – National Day Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:National Day Holiday – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:VietnamPlant_AnnualHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Vietnam Plant – Annual Holiday
+LOCATION:Hanoi, Vietnam
+DESCRIPTION:Annual Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:LHD Hong Kong – New Year's Day Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:New Year's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_LunarNewYearHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260220
+SUMMARY:LHD Hong Kong – Lunar New Year Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:Lunar New Year Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_ThedayfollowingGoodFridayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:LHD Hong Kong – The day following Good Friday Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:The day following Good Friday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_ThedayfollowingChingMingFestivalHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:LHD Hong Kong – The day following Ching Ming Festival Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:The day following Ching Ming Festival Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_ThedayfollowingEasterMondayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:LHD Hong Kong – The day following Easter Monday Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:The day following Easter Monday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_LaborDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:LHD Hong Kong – Labor Day Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_ThedayfollowingtheBirthdayoftheBuddhaHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:LHD Hong Kong – The day following the Birthday of the Buddha Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:The day following the Birthday of the Buddha Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_TuenNgFestivalHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:LHD Hong Kong – Tuen Ng Festival Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:Tuen Ng Festival Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_HongKongSpecialAdministrativeRegionEstablishmentDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:LHD Hong Kong – Hong Kong Special Administrative Region Establishment Day Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:Hong Kong Special Administrative Region Establishment Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_ThedayfollowingtheChineseMidAutumnFestivalHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:LHD Hong Kong – The day following the Chinese Mid-Autumn Festival Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:The day following the Chinese Mid-Autumn Festival Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_NationalDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:LHD Hong Kong – National Day Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:National Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_ThedayfollowingChungYeungFestival@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:LHD Hong Kong – The day following Chung Yeung Festival
+LOCATION:Hong Kong, China
+DESCRIPTION:The day following Chung Yeung Festival – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDHongKong_ChristmasHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261227
+SUMMARY:LHD Hong Kong – Christmas Holiday
+LOCATION:Hong Kong, China
+DESCRIPTION:Christmas Holiday – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:LHD Australia – New Year's Day Holiday
+LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
+DESCRIPTION:New Year's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_AustraliaDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:LHD Australia – Australia Day Holiday
+LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
+DESCRIPTION:Australia Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_LaborDayHolidayforMelbourne@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:LHD Australia – Labor Day Holiday (for Melbourne)
+LOCATION:Melbourne, Australia
+DESCRIPTION:Labor Day Holiday (for Melbourne) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_AdelaideCupDayHolidayforAdelaide@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:LHD Australia – Adelaide Cup Day Holiday (for Adelaide)
+LOCATION:Adelaide, Australia
+DESCRIPTION:Adelaide Cup Day Holiday (for Adelaide) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_GoodFridayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:LHD Australia – Good Friday Holiday
+LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
+DESCRIPTION:Good Friday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_EasterMondayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:LHD Australia – Easter Monday Holiday
+LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
+DESCRIPTION:Easter Monday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_AnzacDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:LHD Australia – Anzac Day Holiday
+LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
+DESCRIPTION:Anzac Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_LaborDayHolidayforBrisbane@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:LHD Australia – Labor Day Holiday (for Brisbane)
+LOCATION:Brisbane, Australia
+DESCRIPTION:Labor Day Holiday (for Brisbane) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_KingsBirthdayHolidayforSydneyAdelaide@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:LHD Australia – Kings Birthday Holiday (for Sydney & Adelaide)
+LOCATION:Sydney/Adelaide, Australia
+DESCRIPTION:Kings Birthday Holiday (for Sydney & Adelaide) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_LaborDayHolidayforSydneyAdelaide@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:LHD Australia – Labor Day Holiday (for Sydney & Adelaide)
+LOCATION:Sydney/Adelaide, Australia
+DESCRIPTION:Labor Day Holiday (for Sydney & Adelaide) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_KingsBirthdayHolidayforBrisbane@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:LHD Australia – Kings Birthday Holiday (for Brisbane)
+LOCATION:Brisbane, Australia
+DESCRIPTION:Kings Birthday Holiday (for Brisbane) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_MelbourneCupDayHolidayforMelbourne@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:LHD Australia – Melbourne Cup Day Holiday (for Melbourne)
+LOCATION:Melbourne, Australia
+DESCRIPTION:Melbourne Cup Day Holiday (for Melbourne) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_ChristmasDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:LHD Australia – Christmas Day Holiday
+LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
+DESCRIPTION:Christmas Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:LHDAustralia_BoxingDayHoliday@lakeland.example
+DTSTAMP:20251224T064003Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261229
+SUMMARY:LHD Australia – Boxing Day Holiday
+LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
+DESCRIPTION:Boxing Day Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
