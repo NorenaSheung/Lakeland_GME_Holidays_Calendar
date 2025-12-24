@@ -12,7 +12,7 @@ This calendar provides the official holiday schedule for all Lakeland plants wor
 1. Copy the subscription link:https://raw.githubusercontent.com/NorenaSheung/Lakeland-GME-AllPlantHolidayCalendar/refs/heads/main/Lakeland_GME_All_Plant_HolidayCalendar.ics
 2. In **Outlook**:
 - Go to **Calendar → Add Calendar → Subscribe from web**.
-- Paste the link and create your calendar name.
+- Paste the link (Extra spaces can cause subscription errors) and create your calendar name.
 - Click **Import**.
 3. The calendar will auto-update whenever changes are made in the repository.
 
