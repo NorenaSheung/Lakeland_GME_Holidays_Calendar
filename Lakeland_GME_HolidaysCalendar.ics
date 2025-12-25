@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Lakeland//Factory Holidays//EN
+VERSION:3.0
+PRODID:-//Lakeland//GME Holidays Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
@@ -721,6 +721,707 @@ DTEND;VALUE=DATE:20261229
 SUMMARY:LHD Australia – Boxing Day Holiday
 LOCATION:Sydney/Brisbane/Adelaide/Melbourne, Australia
 DESCRIPTION:Boxing Day Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:WeifangPlant_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260104
+SUMMARY:Weifang Plant – New Year's Day Holiday
+LOCATION:Weifang, China
+DESCRIPTION:New Year's Day Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:WeifangPlant_ChineseSpringFestivalHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260224
+SUMMARY:Weifang Plant – Chinese Spring Festival Holiday
+LOCATION:Weifang, China
+DESCRIPTION:Chinese Spring Festival Holiday – 11 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:WeifangPlant_QingmingFestivalHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260407
+SUMMARY:Weifang Plant – Qingming Festival Holiday
+LOCATION:Weifang, China
+DESCRIPTION:Qingming Festival Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:WeifangPlant_LaborDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260506
+SUMMARY:Weifang Plant – Labor Day Holiday
+LOCATION:Weifang, China
+DESCRIPTION:Labor Day Holiday – 5 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:WeifangPlant_DragonBoatFestivalHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:Weifang Plant – Dragon Boat Festival Holiday
+LOCATION:Weifang, China
+DESCRIPTION:Dragon Boat Festival Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:WeifangPlant_MidAutumnFestivalHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:Weifang Plant – Mid-Autumn Festival Holiday
+LOCATION:Weifang, China
+DESCRIPTION:Mid-Autumn Festival Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:WeifangPlant_NationalDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261008
+SUMMARY:Weifang Plant – National Day Holiday
+LOCATION:Weifang, China
+DESCRIPTION:National Day Holiday – 7 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_RepublicDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:India Plant – Republic Day Holiday
+LOCATION:Noida , India
+DESCRIPTION:Republic Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_HoliHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:India Plant – Holi Holiday
+LOCATION:Noida , India
+DESCRIPTION:Holi Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_RamaNavamiHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:India Plant – Rama Navami Holiday
+LOCATION:Noida , India
+DESCRIPTION:Rama Navami Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_IndependenceDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:India Plant – Independence Day Holiday
+LOCATION:Noida , India
+DESCRIPTION:Independence Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_RakshaBandhanHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:India Plant – Raksha Bandhan Holiday
+LOCATION:Noida , India
+DESCRIPTION:Raksha Bandhan Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_JanmashtamiHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:India Plant – Janmashtami Holiday
+LOCATION:Noida , India
+DESCRIPTION:Janmashtami Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_MahatmaGandhisBirthdayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:India Plant – Mahatma Gandhi’s Birthday Holiday
+LOCATION:Noida , India
+DESCRIPTION:Mahatma Gandhi’s Birthday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_DussehraHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:India Plant – Dussehra Holiday
+LOCATION:Noida , India
+DESCRIPTION:Dussehra Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_DiwaliHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:India Plant – Diwali Holiday
+LOCATION:Noida , India
+DESCRIPTION:Diwali Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_GoverdhanPujaHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:India Plant – Goverdhan Puja Holiday
+LOCATION:Noida , India
+DESCRIPTION:Goverdhan Puja Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:IndiaPlant_ChristmasDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:India Plant – Christmas Day Holiday
+LOCATION:Noida , India
+DESCRIPTION:Christmas Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:PHNZ – New Year’s Day Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:New Year’s Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_DayafterNewYearsDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:PHNZ – Day after New Year’s Day Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Day after New Year’s Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_WellingtonAnniversaryHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:PHNZ – Wellington Anniversary Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Wellington Anniversary Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_WaitangiDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:PHNZ – Waitangi Day Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Waitangi Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_GoodFridayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:PHNZ – Good Friday Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Good Friday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_EasterMondayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:PHNZ – Easter Monday Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Easter Monday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_AnzacDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260428
+SUMMARY:PHNZ – Anzac Day Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Anzac Day Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_KingsBirthdayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:PHNZ – King’s Birthday Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:King’s Birthday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_MatarikiHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:PHNZ – Matariki Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Matariki Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_LaborDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:PHNZ – Labor Day Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_ChristmasDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:PHNZ – Christmas Day Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Christmas Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:PHNZ_BoxingDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261229
+SUMMARY:PHNZ – Boxing Day Holiday
+LOCATION:Whanganui, New Zealand
+DESCRIPTION:Boxing Day Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Argentina Plant – New Year's Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:New Year's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_CarnivalHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260218
+SUMMARY:Argentina Plant – Carnival Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Carnival Holiday – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_DayofRemembranceforTruthandJusticeHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Argentina Plant – Day of Remembrance for Truth and Justice Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Day of Remembrance for Truth and Justice Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_MalvinasDayVeteransandFallenSoldiersHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Argentina Plant – Malvinas Day (Veterans and Fallen Soldiers) Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Malvinas Day (Veterans and Fallen Soldiers) Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_GoodFridayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Argentina Plant – Good Friday Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Good Friday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_LaborDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Argentina Plant – Labor Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_MayRevolutionDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Argentina Plant – May Revolution Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:May Revolution Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_MartnMigueldeGemesHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Argentina Plant – Martín Miguel de Güemes Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Martín Miguel de Güemes Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_NationalFlagDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Argentina Plant – National Flag Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:National Flag Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_IndependenceDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Argentina Plant – Independence Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Independence Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_SanMartnDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Argentina Plant – San Martín Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:San Martín Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_DayofRespectforCulturalDiversityHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Argentina Plant – Day of Respect for Cultural Diversity Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Day of Respect for Cultural Diversity Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_NationalSovereigntyDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Argentina Plant – National Sovereignty Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:National Sovereignty Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_ImmaculateConceptionHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Argentina Plant – Immaculate Conception Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Immaculate Conception Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_ChristmasDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Argentina Plant – Christmas Day Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Christmas Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_ChristmasHoliday2025@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260106
+SUMMARY:Jolly Italy – Christmas Holiday (2025)
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Christmas Holiday (2025) – 5 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_LaBefanaHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Jolly Italy – La Befana Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:La Befana Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_EasterHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Jolly Italy – Easter Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Easter Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_EasterMondayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Jolly Italy – Easter Monday Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Easter Monday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_LiberationDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Jolly Italy – Liberation Day Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Liberation Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_LaborDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Jolly Italy – Labor Day Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_OfficeClosedBridgeHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Jolly Italy – Office Closed (Bridge Holiday)
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Office Closed (Bridge Holiday) – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_RepublicDay@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Jolly Italy – Republic Day
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Republic Day – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_OfficeClosedSummerHolidays@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260829
+SUMMARY:Jolly Italy – Office Closed (Summer Holidays)
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Office Closed (Summer Holidays) – 19 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_AllSaintsDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Jolly Italy – All Saints’ Day Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:All Saints’ Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_ImmaculateConceptionDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Jolly Italy – Immaculate Conception Day Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Immaculate Conception Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyItaly_ChristmasHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270101
+SUMMARY:Jolly Italy – Christmas Holiday
+LOCATION:Montebelluna, Italy
+DESCRIPTION:Christmas Holiday – 8 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_NewYearsDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260103
+SUMMARY:Jolly Romania – New Year's Day Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:New Year's Day Holiday – 2 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_LaBefanaHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Jolly Romania – La Befana Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:La Befana Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_SaintJohnsDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Jolly Romania – Saint John's Day Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Saint John's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_UnionofPrincipalitiesDay@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Jolly Romania – Union of Principalities Day
+LOCATION:Bucharest, Romania
+DESCRIPTION:Union of Principalities Day – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_GoodFridayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Jolly Romania – Good Friday Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Good Friday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_EasterHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260414
+SUMMARY:Jolly Romania – Easter Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Easter Holiday – 3 Days Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_LaborDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Jolly Romania – Labor Day Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_WhitSundayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Jolly Romania – Whit Sunday Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Whit Sunday Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_ChildrensDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Jolly Romania – Children's Day Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Children's Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_DormitionoftheMotherofGodHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Jolly Romania – Dormition of the Mother of God Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Dormition of the Mother of God Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_SaintAndrewHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Jolly Romania – Saint Andrew Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Saint Andrew Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_GreatUnionDayHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Jolly Romania – Great Union Day Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Great Union Day Holiday – 1 Day Holiday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:JollyRomania_ChristmasHoliday@lakeland.example
+DTSTAMP:20251225T023015Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261227
+SUMMARY:Jolly Romania – Christmas Holiday
+LOCATION:Bucharest, Romania
+DESCRIPTION:Christmas Holiday – 2 Days Holiday
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
