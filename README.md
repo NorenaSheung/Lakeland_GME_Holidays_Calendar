@@ -15,6 +15,7 @@ This calendar provides the official holiday schedule for all Lakeland plants wor
 - Paste the link (Extra spaces can cause subscription errors) and create your calendar name.
 - Click **Import**.
 3. The calendar will auto-update whenever changes are made in the repository.
+4. Uncheck the circle box to hide the calendar. Re-check the circle box to make it visible again.
 
 ## 🛠 Update Process
 - Replace the existing .ics file with the updated version in the repository.
@@ -23,4 +24,4 @@ This calendar provides the official holiday schedule for all Lakeland plants wor
 
 ## 📅 Current Version
 - Year: 2026
-- Last Updated: Dec 24, 2025
+- Last Updated: Dec 25, 2025
