@@ -1,7 +1,7 @@
 # Lakeland GME Holidays Calendar – User Guide
 
 ## 📌 Purpose
-This calendar provides the official holiday schedule for all Lakeland plants worldwide. It is maintained by the Global Manufacturing Excellence (GME) department and distributed in .ics format for easy subscription in Outlook and other calendar applications.
+This calendar provides the official holiday schedule for all Lakeland plants worldwide. Improve visibility by establishing an all-plant holiday calendar in Outlook using ICS URL subscription for automatic updates without extra steps for subscribers. It is maintained by the Global Manufacturing Excellence (GME) department and distributed in .ICS format for easy subscription in Outlook and other calendar applications.
 
 ## 🌍 Scope
 - Covers all Lakeland plants globally.
