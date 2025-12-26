@@ -15,7 +15,7 @@ This calendar provides the official holiday schedule for all Lakeland plants wor
 - Paste the link (Extra spaces can cause subscription errors) and create your calendar name.
 - Click **Import**.
 3. The calendar will auto-update whenever changes are made in the repository.
-4. Uncheck the circle box to hide the calendar. Re-check the circle box to make it visible again.
+4. **Toggle visibility**: Use the circle checkbox next to the calendar name in the left navigation bar to show or hide the calendar.
 
 ## 🛠 Update Process
 - Replace the existing .ics file with the updated version in the repository.
