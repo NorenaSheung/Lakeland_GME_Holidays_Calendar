@@ -9,7 +9,7 @@ This calendar provides the official holiday schedule for all Lakeland plants wor
 - Ensures consistent holiday visibility across teams.
 
 ## 🔗 How to Subscribe
-1. Copy the subscription link:https://raw.githubusercontent.com/NorenaSheung/Lakeland-GME-AllPlantHolidayCalendar/refs/heads/main/Lakeland_GME_All_Plant_HolidayCalendar.ics
+1. Copy the subscription link: https://raw.githubusercontent.com/NorenaSheung/Lakeland_GME_Holidays_Calendar/refs/heads/main/Lakeland_GME_HolidaysCalendar.ics 
 2. In **Outlook**:
 - Go to **Calendar → Add Calendar → Subscribe from web**.
 - Paste the link (Extra spaces can cause subscription errors) and create your calendar name.
