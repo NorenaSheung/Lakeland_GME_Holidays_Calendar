@@ -23,5 +23,5 @@ This calendar provides the official holiday schedule for all Lakeland plants wor
 - All subscribers will automatically receive updates.
 
 ## 📅 Current Version
-- Year: 2026
+- Lakeland GME Holidays Calendar 3.0
 - Last Updated: Dec 25, 2025
