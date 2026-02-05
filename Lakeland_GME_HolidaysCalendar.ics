@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-VERSION:3.0
+VERSION:3.2
 PRODID:-//Lakeland//GME Holidays Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
@@ -1045,133 +1045,163 @@ DESCRIPTION:Carnival Holiday – 2 Days Holiday
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:ArgentinaPlant_TouristHoliday@lakeland.example
+DTSTAMP:20260205T151752Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Argentina Plant – Tourist Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Tourist Holiday – 1 Day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:ArgentinaPlant_DayofRemembranceforTruthandJusticeHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:Argentina Plant – Day of Remembrance for Truth and Justice Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Day of Remembrance for Truth and Justice Holiday – 1 Day Holiday
+DESCRIPTION:Day of Remembrance for Truth and Justice Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_MalvinasDayVeteransandFallenSoldiersHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Argentina Plant – Malvinas Day (Veterans and Fallen Soldiers) Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Malvinas Day (Veterans and Fallen Soldiers) Holiday – 1 Day Holiday
+DESCRIPTION:Malvinas Day (Veterans and Fallen Soldiers) Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_GoodFridayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Argentina Plant – Good Friday Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Good Friday Holiday – 1 Day Holiday
+DESCRIPTION:Good Friday Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_LaborDayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Argentina Plant – Labor Day Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Labor Day Holiday – 1 Day Holiday
+DESCRIPTION:Labor Day Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_MayRevolutionDayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Argentina Plant – May Revolution Day Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:May Revolution Day Holiday – 1 Day Holiday
+DESCRIPTION:May Revolution Day Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_MartnMigueldeGemesHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
+DTSTAMP:20260205T151752Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
 SUMMARY:Argentina Plant – Martín Miguel de Güemes Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Martín Miguel de Güemes Holiday – 1 Day Holiday
+DESCRIPTION:Martín Miguel de Güemes Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_NationalFlagDayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Argentina Plant – National Flag Day Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:National Flag Day Holiday – 1 Day Holiday
+DESCRIPTION:National Flag Day Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_IndependenceDayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:Argentina Plant – Independence Day Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Independence Day Holiday – 1 Day Holiday
+DESCRIPTION:Independence Day Holiday – 1 Day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_TouristHoliday@lakeland.example
+DTSTAMP:20260205T151752Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Argentina Plant – Tourist Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Tourist Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_SanMartnDayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Argentina Plant – San Martín Day Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:San Martín Day Holiday – 1 Day Holiday
+DESCRIPTION:San Martín Day Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_DayofRespectforCulturalDiversityHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Argentina Plant – Day of Respect for Cultural Diversity Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Day of Respect for Cultural Diversity Holiday – 1 Day Holiday
+DESCRIPTION:Day of Respect for Cultural Diversity Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_NationalSovereigntyDayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
+DTSTAMP:20260205T151752Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
 SUMMARY:Argentina Plant – National Sovereignty Day Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:National Sovereignty Day Holiday – 1 Day Holiday
+DESCRIPTION:National Sovereignty Day Holiday – 1 Day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ArgentinaPlant_TouristHoliday@lakeland.example
+DTSTAMP:20260205T151752Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Argentina Plant – Tourist Holiday
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Tourist Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ArgentinaPlant_ImmaculateConceptionHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Argentina Plant – Immaculate Conception Holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Immaculate Conception Holiday – 1 Day Holiday
+DESCRIPTION:Immaculate Conception Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ArgentinaPlant_ChristmasDayHoliday@lakeland.example
-DTSTAMP:20251225T023015Z
+UID:ArgentinaPlant_ChristmasandNewYearsholiday@lakeland.example
+DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Argentina Plant – Christmas Day Holiday
+DTEND;VALUE=DATE:20270104
+SUMMARY:Argentina Plant – Christmas and New Years holiday
 LOCATION:Buenos Aires, Argentina
-DESCRIPTION:Christmas Day Holiday – 1 Day Holiday
+DESCRIPTION:Christmas and New Years holiday – 10 Days
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
