@@ -1045,7 +1045,7 @@ DESCRIPTION:Carnival Holiday – 2 Days Holiday
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ArgentinaPlant_TouristHoliday@lakeland.example
+UID:ArgentinaPlant_TouristHoliday1@lakeland.example
 DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
@@ -1135,7 +1135,7 @@ DESCRIPTION:Independence Day Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ArgentinaPlant_TouristHoliday@lakeland.example
+UID:ArgentinaPlant_TouristHoliday2@lakeland.example
 DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
@@ -1175,7 +1175,7 @@ DESCRIPTION:National Sovereignty Day Holiday – 1 Day
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:ArgentinaPlant_TouristHoliday@lakeland.example
+UID:ArgentinaPlant_TouristHoliday3@lakeland.example
 DTSTAMP:20260205T151752Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
